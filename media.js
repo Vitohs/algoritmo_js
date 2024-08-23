@@ -11,9 +11,9 @@ if (media >= 8.5) {
 } else if (media >= 7.5 && media < 8.5) {
     console.log("boa, sua menção é B");
 } else if (media >= 6 && media < 7.5) {
-    console.log("boa, sua menção é C, jenio");
+    console.log("boa, sua menção é C, ok");
 } else if (media >= 5 && media < 6) {
-    console.log("Menção D pqp");
+    console.log("Menção D oloco");
 } else {
-    console.log("F pqp");
+    console.log("F, ai nao po");
 }
